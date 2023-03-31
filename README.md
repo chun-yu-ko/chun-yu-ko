@@ -8,11 +8,11 @@ GitHub 被我塞得亂七八糟，我平常真的不是這樣的 XD
 #### Tips dataset
  - [Medium - Speedrun: Tips 數據集](https://medium.com/the-whispers-of-a-data-analyst/speedrun-tips-數據集-515740298ebf)
  - [Github Page - ](https://seimwiwa.github.io/scu_master_degree_program_multivariate_analysis/2023_03_11_Tips.html)
- - [Repo scu_master_degree_program_multivariate_analysis](https://github.com/seimwiwa/scu_master_degree_program_multivariate_analysis)
+ - [Github Repo - scu_master_degree_program_multivariate_analysis](https://github.com/seimwiwa/scu_master_degree_program_multivariate_analysis)
 
 #### Apple watch 健康數據分析 (ongoing)
  - [Medium - Case study: Apple watch 健康數據分析 — 你睡了嗎？](https://medium.com/the-whispers-of-a-data-analyst/case-study-%E5%81%A5%E5%BA%B7%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90-%E4%BD%A0%E7%9D%A1%E4%BA%86%E5%97%8E-869e3295b6be)
- - [Repo - apple_watch_activity](https://github.com/seimwiwa/apple_watch_activity.git)
+ - [Github Repo - apple_watch_activity](https://github.com/seimwiwa/apple_watch_activity.git)
 
 #### 2023 年 Data Science 工作職缺/機會懶人包，資料科學出路可以做什麼？
 
