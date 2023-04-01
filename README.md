@@ -7,7 +7,7 @@ GitHub 被我塞得亂七八糟，我平常真的不是這樣的 XD
 
 #### Tips dataset
  - [Medium - Speedrun: Tips 數據集](https://medium.com/the-whispers-of-a-data-analyst/speedrun-tips-數據集-515740298ebf)
- - [Github Page - ](https://seimwiwa.github.io/scu_master_degree_program_multivariate_analysis/2023_03_11_Tips.html)
+ - [Github Page - Tips](https://seimwiwa.github.io/scu_master_degree_program_multivariate_analysis/2023_03_11_Tips.html)
  - [Github Repo - scu_master_degree_program_multivariate_analysis](https://github.com/seimwiwa/scu_master_degree_program_multivariate_analysis)
 
 #### Apple watch 健康數據分析 (ongoing)
@@ -32,6 +32,7 @@ GitHub 被我塞得亂七八糟，我平常真的不是這樣的 XD
  - [Medium - 2023 年阿福管家的數據團隊開缺啦！](https://medium.com/alfredcamera/2023-年阿福管家的數據團隊開缺啦-e614fcea7f41)
  - [Medium - 數據分析師 WFH 的一天](https://medium.com/alfredcamera/數據分析師-wfh-的一天-79b959e43e70)
  - [Medium - 做 AB test 需要多少時間？](https://medium.com/alfredcamera/%E5%81%9A-ab-test-%E9%9C%80%E8%A6%81%E5%A4%9A%E5%B0%91%E6%99%82%E9%96%93-c401fbe00eb0)
+ - [Medium - Team Lead 不好當 — 當 Team Lead 我學會的事](https://medium.com/alfredcamera/team-lead-不好當-當-team-lead-我學會的事-b9a011dd88af)
 
 ### 在 Alfred Camera 做的研究
 
