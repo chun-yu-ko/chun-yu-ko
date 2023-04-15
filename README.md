@@ -5,6 +5,9 @@ GitHub 被我塞得亂七八糟，我平常真的不是這樣的 XD
 
 ### 閒閒沒事的觀察 & 研究
 
+#### Minimum Wages and Employment: A Case Study of the Fast Food Industry in New Jersey and Pennsylvania
+ - [Github Page - Minimum Wages and Employment: A Case Study of the Fast Food Industry in New Jersey and Pennsylvania](https://seimwiwa.github.io/minimum_wages_and_employment_in_nj/)
+ 
 #### Tips dataset
  - [Medium - Speedrun: Tips 數據集](https://medium.com/the-whispers-of-a-data-analyst/speedrun-tips-數據集-515740298ebf)
  - [Github Page - Tips](https://seimwiwa.github.io/scu_master_degree_program_multivariate_analysis/2023_03_11_Tips.html)
