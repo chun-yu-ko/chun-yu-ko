@@ -1,35 +1,47 @@
-### 偶數一個 Data Analyst ~~素巨葷西斯~~ ko 拉
+## About me: A Passionate Data Analyst
 
-GitHub 被我塞得亂七八糟，我平常真的不是這樣的 XD
-但一直沒時間打掃，有機會應該好好整理一下！！
+An accomplished Data Scientist and Analyst with 7 years of experience specializing in data-driven decision-making, visualization, study design, and advanced analytics. Adept at supporting company and product development in growth, operation, and marketing functions by leveraging statistical and data science expertise to reinforce business strategy.
 
-### 閒閒沒事的觀察 & 研究
+In the organization, I actively promote and strengthen the data literacy and skills of the team and the company as a whole. We have attempted to compile research methodologies specific to the business field and continue to expand our knowledge. Since 2021, our team has reviewed basic statistics, research design, and we are now studying causal inference methods.
 
-#### Minimum Wages and Employment: A Case Study of the Fast Food Industry in New Jersey and Pennsylvania
+As a data analyst, my mission is to "Eliminate the distance from data to users." To achieve this goal, I am continuously learning the ever-evolving data science skills and applying them in both side projects and work. Currently, I am pursuing a Master's degree in Data Science and working on several exciting projects. Feel free to check out my Medium and GitHub profiles to learn more.
+
+## Side Projects
+
+### Minimum Wages and Employment: A Case Study of the Fast Food Industry in New Jersey and Pennsylvania
+
+I attempted to reproduce the 1993 article by David Card, the 2021 Nobel Prize winner in Economics, in order to re-examine my understanding of natural experiments.
+
  - [Github Page - Minimum Wages and Employment: A Case Study of the Fast Food Industry in New Jersey and Pennsylvania](https://seimwiwa.github.io/minimum_wages_and_employment_in_nj/)
  
-#### Tips dataset
+### Tips dataset
+
+During my Master's coursework, I stumbled upon an interesting dataset. I applied EDA and used structural discovery to assist in causal inference and hypothesis testing for observational research.
+
  - [Medium - Speedrun: Tips 數據集](https://medium.com/the-whispers-of-a-data-analyst/speedrun-tips-數據集-515740298ebf)
  - [Github Page - Tips](https://seimwiwa.github.io/scu_master_degree_program_multivariate_analysis/2023_03_11_Tips.html)
  - [Github Repo - scu_master_degree_program_multivariate_analysis](https://github.com/seimwiwa/scu_master_degree_program_multivariate_analysis)
 
-#### Apple watch 健康數據分析 (ongoing)
+### Apple Watch Health Data Analysis (Ongoing)
+
+As an Apple Watch user for 3 years, the accumulated data serves as an excellent foundation for a longitudinal study.
+
  - [Medium - Case study: Apple watch 健康數據分析 — 你睡了嗎？](https://medium.com/the-whispers-of-a-data-analyst/case-study-%E5%81%A5%E5%BA%B7%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90-%E4%BD%A0%E7%9D%A1%E4%BA%86%E5%97%8E-869e3295b6be)
  - [Github Repo - apple_watch_activity](https://github.com/seimwiwa/apple_watch_activity.git)
 
-#### 2023 年 Data Science 工作職缺/機會懶人包，資料科學出路可以做什麼？
+### 2023 Data Science Job Market & Opportunities Guide: What can you do with a career in Data Science? (Ongoing)
 
  - [Medium - 2023 年 Data Science 工作職缺/機會懶人包，資料科學出路可以做什麼？（一）：氾濫的「資料科學」職缺](https://medium.com/@bananish.cyk/2023-年-data-science-工作職缺-機會懶人包-資料科學出路可以做什麼-一-氾濫的-資料科學-職缺-bf3e358ef93d)
  - [Medium - 2023 年 Data Science 工作職缺/機會懶人包，資料科學出路可以做什麼?（二）：資訊業/軟體業對 DSA 的需求多、沒有經驗也可以找到合適的職缺](https://medium.com/@bananish.cyk/2023-年-data-science-工作職缺-機會懶人包-資料科學出路可以做什麼-二-資訊業-軟體業對-dsa-的需求多-沒有經驗也可以找到合適的職缺-cc8a74b17fc0)
 
-### 阿福管家火熱招聘中
+## AlfredCamera is Actively Hiring
 
 ![](https://alfred.camera/rebranding-static/logo.svg)
 
  - [AlfredCamera 阿福管家的職缺與投遞專區](https://alfred.teamdoor.io/)
  - [AlfredCamera Senior Data Analyst 資深資料數據分析師](https://alfred.teamdoor.io/s/TNi9D9mu)
 
-### 了解更多 Alfred Camera
+### More About Alfred Camera
 
  - [Medium - Alfred Camera Blog](https://medium.com/alfredcamera)
  - [Medium - 2023 年阿福管家的數據團隊開缺啦！](https://medium.com/alfredcamera/2023-年阿福管家的數據團隊開缺啦-e614fcea7f41)
@@ -37,12 +49,12 @@ GitHub 被我塞得亂七八糟，我平常真的不是這樣的 XD
  - [Medium - 做 AB test 需要多少時間？](https://medium.com/alfredcamera/%E5%81%9A-ab-test-%E9%9C%80%E8%A6%81%E5%A4%9A%E5%B0%91%E6%99%82%E9%96%93-c401fbe00eb0)
  - [Medium - Team Lead 不好當 — 當 Team Lead 我學會的事](https://medium.com/alfredcamera/team-lead-不好當-當-team-lead-我學會的事-b9a011dd88af)
 
-### 在 Alfred Camera 做的研究
+### Research in Alfred Camera
 
 - [2022 STATE OF GLOBAL SAFETY AND SECURITY](https://alfred.camera/state-of-security/en/2022/)
 - [Medium - 日本市場 用戶都在海外，怎麼辦？阿福管家挖掘使用者需求的三大關鍵](https://medium.com/alfredcamera/阿福管家-寶寶-兒童攝影機使用習慣-95f3a0f3e0d0)
 
-### Alfred Data Team 過去一年的讀書筆記
+### Our Study Notes
 
 #### Essentials of Epidemiology in Public Health STUDY NOTE (ongoing)
 
@@ -56,9 +68,9 @@ GitHub 被我塞得亂七八糟，我平常真的不是這樣的 XD
  - [Medium - CH 11：混淆因子 vs 商業分析](https://medium.com/the-whispers-of-a-data-analyst/ch-10-混淆因子-vs-商業分析-20e8f28db6e6)
  - [Medium - CH 12：隨機錯誤 vs 商業分析](https://medium.com/the-whispers-of-a-data-analyst/ch-12-隨機錯誤-vs-商業分析-1611b9ae4da8)
 
-### 數據分析的 Tips
+### Tips for data analyst
 
-#### 五個讓 AB test 更有效率的小撇步：引言 — AB test 在商業模式中的價值 (ongoing)
+#### Five Tips for More Efficient A/B Testing (Ongoing)
 
  - [Medium - 五個讓 AB test 更有效率的小撇步：引言 — AB test 在商業模式中的價值](https://medium.com/@bananish.cyk/五個讓-ab-test-更有效率的小撇步-一-引言-ab-test-在商業模式中的價值-567dae001972)
  - [Medium - 五個讓 AB test 更有效率的小撇步：第一招 — 期待管理：先確認釐清目標所需要的時間資源](https://medium.com/@bananish.cyk/五個讓-ab-test-更有效率的小撇步-第一招-期待管理-先確認釐清目標所需要的時間資源-53d3bf72460e)
