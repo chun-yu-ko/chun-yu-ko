@@ -39,7 +39,6 @@ As an Apple Watch user for 3 years, the accumulated data serves as an excellent 
 ![](https://alfred.camera/rebranding-static/logo.svg)
 
  - [AlfredCamera 阿福管家的職缺與投遞專區](https://alfred.teamdoor.io/)
- - [AlfredCamera Senior Data Analyst 資深資料數據分析師](https://alfred.teamdoor.io/s/TNi9D9mu)
 
 ### More About Alfred Camera
 
