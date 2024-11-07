@@ -84,10 +84,6 @@ As an Apple Watch user for 3 years, the accumulated data serves as an excellent 
 
 ---
 
-# AlfredCamera is Hiring
-
-![](https://alfred.camera/rebranding-static/logo.svg)
-
 **About Alfred Camera**
 
 - [AlfredCamera Career](https://alfred.teamdoor.io/)
